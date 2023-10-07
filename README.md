@@ -1,9 +1,11 @@
+![dhuz](https://camo.githubusercontent.com/d348976f3419cd09cf731439742c1b889e3f3cd8e04b2e72e7a219d85b049c37/68747470733a2f2f636c6f75642d6c66697532373079302d6861636b2d636c75622d626f742e76657263656c2e6170702f30666f6f7465722e706e67)
+
 <h1 align="center">Hi 👋, I'm Hamza Khan Khan</h1>
 <h3 align="center">A Dedicated Front-End Developer Hailing from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/dbd02eb60eede5c8e12d03bb1531f7df43acf13a3d8a90bccbda7aa220799a1d/68747470733a2f2f74342e667463646e2e6e65742f6a70672f30332f31332f34302f34352f3336305f465f3331333430343534315f6539595a33706874366f45456b4d5875687854626f71584132423253684e6e432e6a7067">
 
 # 💫 About Me:
-🔭 I’m currently working on <b>JavaScript - HTML - CSS<b><br>🌱 I’m currently learning JavaScript - REACT JS - NODE JS<br>👯 I’m looking to collaborate on Open-source projects<br>💬 Ask me about Responsive Web Design<br>⚡ Fun fact "There are two ways to write error-free programs; only the third works."
+🔭 I’m currently working on **JavaScript - HTML - CSS**<br>🌱 I’m currently learning **JavaScript - REACT JS - NODE JS**<br>👯 I’m looking to collaborate on **Open-source projects**<br>💬 Ask me about **Responsive Web Design**<br>⚡ Fun fact **"There are two ways to write error-free programs; only the third works."**
 
 
 ## 🌐 Socials:
