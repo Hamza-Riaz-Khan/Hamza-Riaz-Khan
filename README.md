@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Hamza Khan Khan</h1>
 <h3 align="center">A Dedicated Front-End Developer Hailing from Pakistan</h3> 
-<img align="right" alt="Coding" width="350" src="https://camo.githubusercontent.com/dbd02eb60eede5c8e12d03bb1531f7df43acf13a3d8a90bccbda7aa220799a1d/68747470733a2f2f74342e667463646e2e6e65742f6a70672f30332f31332f34302f34352f3336305f465f3331333430343534315f6539595a33706874366f45456b4d5875687854626f71584132423253684e6e432e6a7067">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/dbd02eb60eede5c8e12d03bb1531f7df43acf13a3d8a90bccbda7aa220799a1d/68747470733a2f2f74342e667463646e2e6e65742f6a70672f30332f31332f34302f34352f3336305f465f3331333430343534315f6539595a33706874366f45456b4d5875687854626f71584132423253684e6e432e6a7067">
 
 # 💫 About Me:
 🔭 I’m currently working on **JavaScript - HTML - CSS**<br>🌱 I’m currently learning **JavaScript - REACT JS - NODE JS**<br>👯 I’m looking to collaborate on **Open-source projects**<br>💬 Ask me about **Responsive Web Design**<br>⚡ Fun fact **"There are two ways to write error-free programs; only the third works."**
