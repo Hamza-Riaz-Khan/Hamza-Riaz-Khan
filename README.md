@@ -44,5 +44,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamza-riaz-khan&show_icons=true&locale=en&layout=compact" alt="hamza-riaz-khan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamza-riaz-khan&" alt="hamza-riaz-khan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamza-riaz-khan&show_icons=true&locale=en" alt="hamza-riaz-khan" /></p>
