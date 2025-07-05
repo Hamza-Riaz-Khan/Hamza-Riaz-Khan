@@ -21,16 +21,16 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://twitter.com/your_twitter_here" target="_blank">
+  <a href="https://twitter.com/Hamzaa_Riazz" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" alt="Twitter"/>
   </a>
-  <a href="https://facebook.com/your_facebook_here" target="_blank">
+  <a href="https://www.facebook.com/Hamza.Riaz2004" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" alt="Facebook"/>
   </a>
-  <a href="https://instagram.com/your_instagram_here" target="_blank">
+  <a href="https://www.instagram.com/hamzaaa_riazz/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" alt="Instagram"/>
   </a>
-  <a href="https://linkedin.com/in/hamza-builds" target="_blank">
+  <a href="https://www.linkedin.com/in/hamza-builds/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn"/>
   </a>
 </p>
