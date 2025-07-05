@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Hamza Riaz Khan</h1>
 <h3 align="center">Senior Computer Science Student | Software & Web Developer | Tech Explorer 🚀</h3>
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTJpbW51eGd2dms1MnZmZ29rcnNpNTc5bzZqbHpxZXEyNXB1aWkzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="400" alt="Coding GIF">
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTJpbW51eGd2dms1MnZmZ29rcnNpNTc5bzZqbHpxZXEyNXB1aWkzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 
 ### 🚀 About Me
 
@@ -16,7 +16,7 @@
 - 🌱 Currently exploring **cloud hosting**, **Flask APIs**, and **compiler design (DFA)**  
 - 🤝 Always open to internships, projects, and developer collaboration  
 - 📫 Reach out to me at: **hamzariaz4577@gmail.com**  
-- ⚡ **Fun fact:** I debug code like a detective — the missing semicolon is always the killer 🕵️‍♂️;
+- ⚡ **Fun fact:** I debug code like a detective — the missing semicolon is always the killer 🕵️‍♂️
 
 ### 🌐 Connect with Me
 
