@@ -1,20 +1,48 @@
-![dhuz](https://camo.githubusercontent.com/d348976f3419cd09cf731439742c1b889e3f3cd8e04b2e72e7a219d85b049c37/68747470733a2f2f636c6f75642d6c66697532373079302d6861636b2d636c75622d626f742e76657263656c2e6170702f30666f6f7465722e706e67)
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&duration=2000&pause=100&color=00FFAB&center=true&vCenter=true&multiline=true&width=250&height=85&lines=I+Write+Code+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Break+Bugs+%F0%9F%A7%B9;+And+Build+Cool+Stuff+%F0%9F%A7%A0" alt="Typing SVG" />
+  </a>
+</h1>
+<h1 align="center">Hi 👋, I'm Hamza Riaz Khan</h1>
+<h3 align="center">Senior Computer Science Student | Software & Web Developer | Tech Explorer 🚀</h3>
 
-<h1 align="center">Hi 👋, I'm Hamza Khan Khan</h1>
-<h3 align="center">A Dedicated Front-End Developer Hailing from Pakistan</h3> 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/dbd02eb60eede5c8e12d03bb1531f7df43acf13a3d8a90bccbda7aa220799a1d/68747470733a2f2f74342e667463646e2e6e65742f6a70672f30332f31332f34302f34352f3336305f465f3331333430343534315f6539595a33706874366f45456b4d5875687854626f71584132423253684e6e432e6a7067">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTJpbW51eGd2dms1MnZmZ29rcnNpNTc5bzZqbHpxZXEyNXB1aWkzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="400" alt="Coding GIF">
 
-# 💫 About Me:
-🔭 I’m currently working on **JavaScript - HTML - CSS**<br>🌱 I’m currently learning **JavaScript - REACT JS - NODE JS**<br>👯 I’m looking to collaborate on **Open-source projects**<br>💬 Ask me about **Responsive Web Design**<br>⚡ Fun fact **"There are two ways to write error-free programs; only the third works."**
+### 🚀 About Me
 
+- 🎓 Senior CS student at Iqra University with a passion for building real-world tech solutions  
+- 💻 Experienced in Python, Java, Flask, SQL, and front-end tools like HTML/CSS/JS  
+- 🌐 Built full-stack apps like **BrainQuest**, **GreenCart Express**, and network designs using Cisco tools  
+- 🌱 Currently exploring **cloud hosting**, **Flask APIs**, and **compiler design (DFA)**  
+- 🤝 Always open to internships, projects, and developer collaboration  
+- 📫 Reach out to me at: **hamzariaz4577@gmail.com**  
+- ⚡ **Fun fact:** I debug code like a detective — the missing semicolon is always the killer 🕵️‍♂️;
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Hamza.Riaz2004) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hamzaaa_riazz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hamza-riaz-khan-1720b027a) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Hamzaa_Riazz) 
+### 🌐 Connect with Me
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+<p align="left">
+  <a href="https://twitter.com/your_twitter_here" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" alt="Twitter"/>
+  </a>
+  <a href="https://facebook.com/your_facebook_here" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" alt="Facebook"/>
+  </a>
+  <a href="https://instagram.com/your_instagram_here" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" alt="Instagram"/>
+  </a>
+  <a href="https://linkedin.com/in/hamza-builds" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn"/>
+  </a>
+</p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HamzaRiazKhan0&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=HamzaRiazKhan0&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaRiazKhan0&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+### 🛠️ Languages & Tools
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,java,js,py,c,cs,cpp,aws,linux,matlab,mysql,sqlite,blender,androidstudio,swift,bootstrap,flask,tailwind,figma,github,jquery,vscode,eclipse,ps,pr)](https://skillicons.dev)
+
+### 📊 GitHub Stats
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamza-riaz-khan&show_icons=true&locale=en&layout=compact" alt="hamza-riaz-khan" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamza-riaz-khan&" alt="hamza-riaz-khan" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamza-riaz-khan&show_icons=true&locale=en" alt="hamza-riaz-khan" /></p>
